@@ -2,7 +2,9 @@
 
 如，原来的下载地址为：
 http://www.google.com/chrome/eula.html
+
 更改后变为：
 http://www.google.com/chrome/eula.html?standalone=1
+
 中文版安装包的地址为：
 http://www.google.com/chrome/eula.html?hl=zh-CN&standalone=1
